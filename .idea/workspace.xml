@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="220d1cff-9b6c-46fd-b44f-2e8bf8de999a" name="Default Changelist" comment="" />
+    <list default="true" id="220d1cff-9b6c-46fd-b44f-2e8bf8de999a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -16,8 +19,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="310">
-              <caret line="223" column="52" selection-start-line="223" selection-start-column="52" selection-end-line="223" selection-end-column="52" />
+            <state relative-caret-position="718">
+              <caret line="666" column="80" selection-start-line="666" selection-start-column="80" selection-end-line="666" selection-end-column="80" />
               <folding>
                 <element signature="n#div#0;n#div#2;n#section#2;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#div#1;n#div#2;n#section#2;n#body#0;n#html#0;n#!!top" />
@@ -28,6 +31,7 @@
                 <element signature="n#div#6;n#div#2;n#section#2;n#body#0;n#html#0;n#!!top" />
                 <element signature="e#26593#26662#0" />
                 <element signature="n#section#4;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
               </folding>
             </state>
           </provider>
@@ -74,6 +78,9 @@
       <find>custom</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -88,6 +95,7 @@
     <option name="width" value="1920" />
     <option name="height" value="1080" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <autoscrollFromSource ProjectPane="true" />
@@ -184,12 +192,12 @@
       <option name="presentableId" value="Default" />
       <updated>1564596331391</updated>
       <workItem from="1564596332617" duration="1496000" />
-      <workItem from="1564598549110" duration="4146000" />
+      <workItem from="1564598549110" duration="4585000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5642000" />
+    <option name="totallyTimeSpent" value="6081000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="1120" width="1920" height="1040" extended-state="6" />
@@ -261,8 +269,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="310">
-          <caret line="223" column="52" selection-start-line="223" selection-start-column="52" selection-end-line="223" selection-end-column="52" />
+        <state relative-caret-position="718">
+          <caret line="666" column="80" selection-start-line="666" selection-start-column="80" selection-end-line="666" selection-end-column="80" />
           <folding>
             <element signature="n#div#0;n#div#2;n#section#2;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#1;n#div#2;n#section#2;n#body#0;n#html#0;n#!!top" />
@@ -273,6 +281,7 @@
             <element signature="n#div#6;n#div#2;n#section#2;n#body#0;n#html#0;n#!!top" />
             <element signature="e#26593#26662#0" />
             <element signature="n#section#4;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
           </folding>
         </state>
       </provider>
