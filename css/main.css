@@ -2942,6 +2942,14 @@ html.no-csstransitions .home-content__main {
   position: relative;
 }
 
+.deck {
+  font-family: "metropolis-light", sans-serif;
+  font-size: 5rem;
+  line-height: 1;
+  color: #ffffff;
+  margin-bottom: 20px;
+}
+
 
 /* ------------------------------------------------------------------- 
  * responsive:
