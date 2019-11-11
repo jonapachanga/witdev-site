@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="220d1cff-9b6c-46fd-b44f-2e8bf8de999a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/images/partners/entropia.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,17 +21,21 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/images" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/images/partners" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="liveEdit" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images/clients" />
+      <recent name="$PROJECT_DIR$/images/partners" />
+      <recent name="$PROJECT_DIR$/images" />
       <recent name="$PROJECT_DIR$/css" />
       <recent name="$PROJECT_DIR$/css/font-awesome/css" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images/partners" />
       <recent name="$PROJECT_DIR$/images" />
       <recent name="$PROJECT_DIR$/css/font-awesome" />
     </key>
@@ -74,6 +81,14 @@
       <workItem from="1564610529489" duration="12314000" />
       <workItem from="1565044465138" duration="5895000" />
       <workItem from="1565900555878" duration="2914000" />
+      <workItem from="1572006888960" duration="5959000" />
+      <workItem from="1572030274468" duration="1480000" />
+      <workItem from="1572093028744" duration="267000" />
+      <workItem from="1573136955992" duration="948000" />
+      <workItem from="1573215305688" duration="1964000" />
+      <workItem from="1573219625147" duration="46000" />
+      <workItem from="1573240528745" duration="244000" />
+      <workItem from="1573248121267" duration="490000" />
     </task>
     <servers />
   </component>
