@@ -1,0 +1,83 @@
+.middle{
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+.card{
+    margin-top: 20px;
+    margin-right: 10%;
+    cursor: pointer;
+    width: 300px !important;
+    height: 350px !important;
+}
+.front,.back{
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    backface-visibility: hidden;
+    position: absolute;
+    transition: transform .4s linear;
+}
+.front img{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+}
+
+.testimonials__author {
+    width: 100%;
+    position: relative;
+    text-align: center;
+    margin-top: 30%;
+    font-family: "metropolis-bold", sans-serif;
+    font-size: 30px;
+    line-height: 1.5;
+    color: #000000;
+}
+.testimonials__author span {
+    display: block;
+    font-family: "metropolis-regular", sans-serif;
+    font-size: 1.4rem;
+    line-height: 1.5;
+    color: rgba(85, 85, 85, 0.7);
+    text-transform: none;
+    letter-spacing: 0;
+}
+
+.front{
+    transform: perspective(600px) rotateY(0deg);
+}
+.back{
+    background: #f1f1f1;
+    transform: perspective(600px) rotateY(180deg);
+}
+.back-content{
+    margin: 0px 10px 0px 10px;
+    color: #2c3e50;
+    text-align: center;
+    width: 100%;
+}
+.sm{
+    margin: 20px 0;
+}
+.sm a{
+    display: inline-flex;
+    width: 40px;
+    height: 40px;
+    justify-content: center;
+    align-items: center;
+    color: #2c3e50;
+    font-size: 18px;
+    transition: 0.4s;
+    border-radius: 50%
+}
+.sm a:hover{
+    background: #2c3e50;
+    color: white;
+}
+.card:hover > .front{
+    transform: perspective(600px) rotateY(-180deg);
+}
+.card:hover > .back{
+    transform: perspective(600px) rotateY(0deg);
+}
